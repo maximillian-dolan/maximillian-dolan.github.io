@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Scientific Programming and Data Science Master's student looking to progress in the field of software engineering or data science using skills in both analytical problem solving, and an understanding of the process involved in tackling more abstract questions. Recently graduated with a Bachelor's of Science in Physics and Philosophy.
+I am currently studying for an Master's in Scientific Programming and Data Science at the University of Bristol, having recently graduated from there with a joint-honours Bachelors's of science in Physics and Philosophy. Over the course of my undergraduate studies, I further developed my strong mathematical ability, while also gaining practical problem-solving skills and an ability to understand and assess complex abstract issues. These are skills that I continued to build on during my postgraduate work, in which I gained practical experience in programming, particuarly within machine learning, data analysis and co-operative software development.
