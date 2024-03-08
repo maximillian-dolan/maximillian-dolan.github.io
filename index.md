@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Hi, I'm Max"
-description: null
+description: Current MSc Student
 image: null
 author: null
 show_tile: false
