@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Max'
+landing-title: 'Hi, I'm Max'
 description: Current MSc Student
 image: null
 author: null
