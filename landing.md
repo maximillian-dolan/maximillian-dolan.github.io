@@ -1,6 +1,6 @@
 ---
 title: My projects
-layout: projects
+layout: landing
 description: 'A collection of projects that I have undertaken, both software-based and other'
 image: assets/images/pic07.jpg
 nav-menu: true
