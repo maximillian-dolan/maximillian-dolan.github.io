@@ -130,8 +130,8 @@ nav-menu: true
 
 <section id="download">
 	<div class="inner">
-		
-<a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a>
-
+                <ul class="actions">
+                    <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
+                </ul>
 </div>
 </section>
