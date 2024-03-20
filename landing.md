@@ -22,8 +22,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/mv_plot.png %}" alt="" data-position="center center" />
+		<a href="generic.html" class="image" style="max-height: 100%;">
+			<img src="{% link assets/images/mv_plot.png %}" alt="" data-position="center center" style="height: auto; max-height: 100%; width: 100%; object-fit: contain;" />
 		</a>
 		<div class="content">
 			<div class="inner">
