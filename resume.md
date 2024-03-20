@@ -15,6 +15,11 @@ nav-menu: true
 		<header class="major">
 			<h1>My Resume</h1>
 		</header>
+		<div class="content">
+	                <ul class="actions">
+	                    <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
+	                </ul>
+		</div>
 	</div>
 </section>
 
@@ -90,10 +95,18 @@ nav-menu: true
 			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
 		</ul>
 </div>
-</section?
+</section>
+
 <!-- skills -->
 
 
+<section id="skills">
+	<div class="inner">
+
+ <h2 id="Skills">Skills</h2>
+
+</div>
+</section>
 <!-- Projects -->
 
 <!--<h2 id="Projects"><u>Projects</u></h2>
@@ -128,10 +141,4 @@ nav-menu: true
 
   	</div>
 
-<section id="download">
-	<div class="inner">
-                <ul class="actions">
-                    <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
-                </ul>
-</div>
-</section>
+
