@@ -117,8 +117,9 @@ nav-menu: true
 
   	</div>
 
-<a href="#" class="button icon fa-download">Download PDF</a>
 </section>
+
+<a href="#" class="button icon fa-download">Download PDF</a>
 
 </div>
 
