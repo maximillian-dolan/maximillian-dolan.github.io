@@ -47,6 +47,14 @@ nav-menu: true
   	</div>
 </section>
 
+<!-- skills -->
+
+<section id="skills">
+	<div class="inner">
+ 	<h2 id="Skills">Skills</h2>
+	</div>
+</section>
+
 <!-- Experience -->
 
 <section id="experience">
@@ -95,14 +103,6 @@ nav-menu: true
 		</ul>
   	</div>
 </section>
-<!-- skills -->
-
-<section id="skills">
-	<div class="inner">
- 	<h2 id="Skills">Skills</h2>
-	</div>
-</section>
-</div>
 
 <!-- Projects -->
 
