@@ -44,8 +44,7 @@ nav-menu: true
 			<li>Awarded the Bristol plus prize, achieved by less than 5% of graduates</li>
 			<li>Particle Detector for CERN’s Experimental Areas – 78% ‑ developed skills both in working with a team and also working with professionals within the field of research</li>
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
-		</ul>
-  
+		</ul>  
   	</div>
 </section>
 
