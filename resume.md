@@ -121,4 +121,4 @@ nav-menu: true
 
 </div>
 
-<a href="Max_Dolan_resume.pdf" download = "{% link assets/Max_Dolan_Resume.pdf %}" class="button icon fa-download">Download PDF</a>
+<a href="assets/Max_Dolan_Resume.pdf" download = "{% link assets/Max_Dolan_Resume.pdf %}" class="button icon fa-download">Download PDF</a>
