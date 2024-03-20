@@ -14,6 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>My Resume</h1>
+			<span class="image right"><img src="{% link assets/images/Resume_pic.jpg %}" alt="" /></span>
 		</header>
 		<div class="content">
 	        	<ul class="actions">
