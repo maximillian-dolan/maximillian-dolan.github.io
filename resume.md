@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>My Resume</h1>
 		</header>
 		<div class="content">
-	                <ul class="actions">
+	        	<ul class="actions">
 	                    <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
 	                </ul>
 		</div>
@@ -46,8 +46,8 @@ nav-menu: true
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
 		</ul>
   
-  </div>
-  </section>
+  	</div>
+</section>
 
 <!-- Experience -->
 
@@ -95,7 +95,7 @@ nav-menu: true
 			<li>Acted proactively to independently organise and execute my duties every day</li>
 			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
 		</ul>
-</div>
+	</div>
 </section>
 
 <!-- skills -->
@@ -139,9 +139,9 @@ nav-menu: true
 			<li>Maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitorcapable of giving over 3 billion readings per second, detecting energies at a photonic level</li>
 			<li><b>Technical Skills:</b>Python(pymeasure), Modelling Software (AutoCAD)</li>
 			<li><b>Soft Skills:</b>Presentation Skills, Leadership, Teamwork, Project Management, Working with Clients</li>
-		</ul>-->
+		</ul>
 
-  	</div>
+  	</div>-->
 
 
 </div>
