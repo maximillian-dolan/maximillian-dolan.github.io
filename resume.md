@@ -17,7 +17,7 @@ nav-menu: true
 		</header>	
 <!-- Education -->
 
-<h2 id="Education">Education</h2>
+<h2 id="Education"><u>Education</u></h2>
 
 <h3 id = "uob">University of Bristol</h3>
 <h4 id = "masters">MSc Scientific Programming and Data Science</h4>
@@ -36,9 +36,52 @@ nav-menu: true
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
 		</ul>  
 
-<!-- Projects -->
+<!-- Experience -->
 
-<h2 id="Projects">Projects</h2>
+<h2 id="Experience"><u>Experience</u></h2>
+
+<h3>PineRock</h3>
+<h4>Intern</h4>
+<i>Jul 2023 - Sep 2023</i>
+		<u>
+			<li>Researched the use of AI within their field of brand communications</li>
+			<li>Chaired a select committee of department heads to pitch ideas and gain feedback</li>
+			<li>Presented findings and recommendations to the entire business, leading to implementation of key changes</li>
+			<li><b>Skills: </b>Teamwork, Communication, Presentation Skills, Working with Clients, Research</li>
+		</u>
+
+<h3>University of Bristol</h3>
+<h4>Student Advisory Group</h4>
+<i>Sep 2022 - Jul 2023</i>
+		<u>
+			<li>Invited to join after having been elected a student course representative two years in a row</li>
+			<li>Participated in various focus groups to help create solutions to problems affecting the entire student body, including transition from online to in‑person exams</li>
+			<li>Advised in the construction of £500 million Temple Quarter Campus, estimated to bring in £1.6 billion revenue annually</li>
+			<li><b>Skills: </b>Communication, Critical Thinking, Negotiation, Stakeholder Representation</li>
+		</u>
+
+<h3>CHAOS (University of Bristol Physics Society)</h3>
+<h4>Head of Promotion and Design</h4>
+<i>Jul 2022 - Jul 2023</i>
+		<u>
+			<li>Was on the committee for one of the largest societies in the country</li>
+			<li>Refocused society on building connections between students, and improving inclusivity</li>
+			<li>Longlisted for the 2023 NSVA committee excellence award</li>
+			<li><b>Skills: </b>Teamwork, Graphical Communication, Creative Thinking, Community Building</li>
+		</u>
+
+<h3>Various</h3>
+<h4>Hospitality work</h4>
+<i>Jul 2023 - Sep 2023</i>
+		<u>
+			<li>Have worked within catering, bars, kitchens and doing cleaning work</li>
+			<li>Had to be adaptive and flexible under pressure, collaborating with a wide range of people in unfamiliar environments/li>
+			<li>Acted proactively to independently organise and execute my duties every day</li>
+			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
+		</u>
+<!-- Projects 
+
+<h2 id="Projects"><u>Projects</u></h2>
 
 <h3 id = "pylj">Update the Pylj Python Package</h3>
 <i>Apr 2024 - Oct 2024</i>
@@ -66,7 +109,7 @@ nav-menu: true
 			<li>Maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitorcapable of giving over 3 billion readings per second, detecting energies at a photonic level</li>
 			<li><b>Technical Skills:</b>Python(pymeasure), Modelling Software (AutoCAD)</li>
 			<li><b>Soft Skills:</b>Presentation Skills, Leadership, Teamwork, Project Management, Working with Clients</li>
-		</ul>
+		</ul>-->
 
   	</div>
 </section>
