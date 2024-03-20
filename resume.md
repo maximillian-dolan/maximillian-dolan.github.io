@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Resume
-description: Lorem ipsum dolor est
+description: 
 image: assets/images/Resume_pic.jpg
 nav-menu: true
 ---
