@@ -103,7 +103,6 @@ nav-menu: true
  	<h2 id="Skills">Skills</h2>
 	</div>
 </section>
-
 </div>
 
 <!-- Projects -->
