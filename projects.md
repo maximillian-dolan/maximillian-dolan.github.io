@@ -22,8 +22,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="image" style="max-height: 100%;">
-			<img src="{% link assets/images/mv_plot.png %}" alt="" data-position="center center" style="height: auto; max-height: 100%; width: 100%; object-fit: contain;" />
+		<a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="image" >
+			<span class = "image fit"><img src="{% link assets/images/mv_plot.png %}" alt="" data-position="center center" style="height: auto; max-height: 100%; width: 100%; object-fit: contain;" /></span>
 		</a>
 		<div class="content">
 			<div class="inner">
