@@ -16,15 +16,14 @@ nav-menu: true
 			<h1>My Resume</h1>
 		</header>
   	</div>
-	
+</section>	
 <!-- Education -->
 
-<h2 id="elements">Education</h2>
-</section>
+<h2 id="Education">Education</h2>
 
 <!-- Experience -->
 
-<h2 id="elements">Experience</h2>
+<h2 id="Experience">Experience</h2>
 
 </div>
 
