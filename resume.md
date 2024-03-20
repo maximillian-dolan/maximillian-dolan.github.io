@@ -10,27 +10,22 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
-<!-- Elements 
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-	</div>
-<div class="6u$ 12u$(medium)">-->
-	
-<section id="one">
-	<div class="row 200%">
-		<div class="6u 12u$(medium)">
+	<div class="inner">
 		<header class="major">
 			<h1>My Resume</h1>
-			<span class="image right"><img src="{% link assets/images/Resume_pic.jpg %}" alt="" /></span>
 		</header>
-		</div>
-		<div class="6u$ 12u$(medium)">
-			<div class="content">
-		        	<ul class="actions">
-		                    <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
-		                </ul>
-			</div>
+		<div class="content">
+	        	<ul class="actions">
+	
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>My Resume</h1>
+		</header>
+		<div class="content">
+		        <ul class="actions">
+		                <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
+		        </ul>
 		</div>
 	</div>
 </section>
