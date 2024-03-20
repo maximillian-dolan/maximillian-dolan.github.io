@@ -14,9 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>My Resume</h1>
-		</header>
-  	</div>
-</section>	
+		</header>	
 <!-- Education -->
 
 <h2 id="Education">Education</h2>
@@ -24,6 +22,9 @@ nav-menu: true
 <!-- Experience -->
 
 <h2 id="Experience">Experience</h2>
+
+  	</div>
+</section>
 
 </div>
 
