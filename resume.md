@@ -45,6 +45,7 @@ nav-menu: true
 			<li>Particle Detector for CERN’s Experimental Areas – 78% ‑ developed skills both in working with a team and also working with professionals within the field of research</li>
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
 		</ul>
+  
   </div>
   </section>
 
@@ -100,13 +101,14 @@ nav-menu: true
 <!-- skills -->
 
 
-<section id="skills">
+<!--<section id="skills">
 	<div class="inner">
 
  <h2 id="Skills">Skills</h2>
 
 </div>
-</section>
+</section>-->
+
 <!-- Projects -->
 
 <!--<h2 id="Projects"><u>Projects</u></h2>
