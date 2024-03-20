@@ -36,9 +36,37 @@ nav-menu: true
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
 		</ul>  
 
-<!-- Experience -->
+<!-- Projects -->
 
-<h2 id="Experience">Experience</h2>
+<h2 id="Projects">Projects</h2>
+
+<h3 id = "pylj">Update the Pylj Python Package</h3>
+<i>Apr 2024 - Oct 2024</i>
+		<ul>
+			<li>Converted entire package to be object‑orientated and take advantage of Python classes</li>
+			<li>Implemented use of better visualisation techniques, in addition to improving GitHub checks</li>
+			<li><b>Technical Skills:</b>Python (classes), Docker containers, Numba</li>
+			<li><b>Soft Skills:</b>Peer programming, Project management, Self‑teaching</li>
+		</ul>
+
+<h3 id = "dashboard">California Forest‑Fire Dashboard</h3>
+<i>Apr 2024 - Oct 2024</i>
+		<ul>
+			<li>Located, formatted and cleaned multiple different forms of data, including HDF, netCDF4 and TIFF</li>
+			<li>Created online dashboard via Streamlit, finding ways to clearly yet accurately present massive amounts of information</li>
+			<li>By merging all data together, and a Machine Learning method, presented new ways of identifying at‑risk areas</li>
+			<li><b>Technical Skills:</b>Python(Xarray), Geo‑Mapping, ML methods (Support Vector Machines, Random Forest etc.)</li>
+			<li><b>Soft Skills:</b>Peer Programming, Project Management, Data Wrangling, Data Representation</li>
+		</ul>
+
+  <h3 id = "pylj">Particle Detector for CERN’s Experimental Areas</h3>
+<i>Apr 2024 - Oct 2024</i>
+		<ul>
+			<li>Worked directly with researchers at CERN to develop single‑photon sensitive detectors for use in high‑energy particle physics experiments in various beam lines</li>
+			<li>Maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitorcapable of giving over 3 billion readings per second, detecting energies at a photonic level</li>
+			<li><b>Technical Skills:</b>Python(pymeasure), Modelling Software (AutoCAD)</li>
+			<li><b>Soft Skills:</b>Presentation Skills, Leadership, Teamwork, Project Management, Working with Clients</li>
+		</ul>
 
   	</div>
 </section>
