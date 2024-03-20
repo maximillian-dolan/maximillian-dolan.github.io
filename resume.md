@@ -93,7 +93,9 @@ nav-menu: true
 			<li>Had to be adaptive and flexible under pressure, collaborating with a wide range of people in unfamiliar environments/li>
 			<li>Acted proactively to independently organise and execute my duties every day</li>
 			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
-
+		</ul>
+  	</div>
+</section>
 <!-- skills -->
 
 <section id="skills">
@@ -101,6 +103,8 @@ nav-menu: true
  	<h2 id="Skills">Skills</h2>
 	</div>
 </section>
+
+</div>
 
 <!-- Projects -->
 
