@@ -8,14 +8,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
-<!-- One -->
-	<div class="inner">
-		<header class="major">
-			<h1>My Resume</h1>
-		</header>
-		<div class="content">
-	        	<ul class="actions">
 	
 <section id="one">
 	<div class="inner">
