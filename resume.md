@@ -14,9 +14,14 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>My Resume</h1>
-		</header>	
-<!-- Education -->
+		</header>
+	</div>
+</section>
 
+<!-- Education -->
+<section id="education">
+	<div class="inner">
+		
 <h2 id="Education">Education</h2>
 
 <h3 id = "uob">University of Bristol</h3>
@@ -34,10 +39,15 @@ nav-menu: true
 			<li>Awarded the Bristol plus prize, achieved by less than 5% of graduates</li>
 			<li>Particle Detector for CERN’s Experimental Areas – 78% ‑ developed skills both in working with a team and also working with professionals within the field of research</li>
 			<li>Essential Maths for Physics – 77% ‑ Further improved knowledge in Linear Algebra, Bayesian Statistics and Multivariable Calculus</li>
-		</ul>  
+		</ul>
+  </div>
+  </section>
 
 <!-- Experience -->
 
+<section id="experience">
+	<div class="inner">
+		
 <h2 id="Experience">Experience</h2>
 
 <h3>PineRock</h3>
@@ -79,7 +89,8 @@ nav-menu: true
 			<li>Acted proactively to independently organise and execute my duties every day</li>
 			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
 		</ul>
-
+</div>
+</section?
 <!-- skills -->
 
 
@@ -117,8 +128,10 @@ nav-menu: true
 
   	</div>
 
-</section>
+<section id="download">
+	<div class="inner">
+		
+<a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a>
 
 </div>
-
-<a href="assets/Max_Dolan_Resume.pdf" download = "{% link assets/Max_Dolan_Resume.pdf %}" class="button icon fa-download">Download PDF</a>
+</section>
