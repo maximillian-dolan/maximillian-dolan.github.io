@@ -99,14 +99,11 @@ nav-menu: true
 
 <!-- skills -->
 
-
-<!--<section id="skills">
+<section id="skills">
 	<div class="inner">
-
- <h2 id="Skills">Skills</h2>
-
-</div>
-</section>-->
+ 	<h2 id="Skills">Skills</h2>
+	</div>
+</section>
 
 <!-- Projects -->
 
@@ -142,5 +139,3 @@ nav-menu: true
 
   	</div>-->
 
-
-</div>
