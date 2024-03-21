@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Particle Detector for CERN’s Experimental Areas</h3>
 				</header>
-				<p>Creating new trigger mechanisms for CERN's north experimental beamlines. The final model aintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitor capable of giving over 3 billion readings per second, detecting energies at a photonic level.</p>
+				<p>Creating new trigger mechanisms for CERN's north experimental beamlines. The final model maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitor capable of giving over 3 billion readings per second, detecting energies at a photonic level.</p>
 			        <ul class="actions">
 			                <li><a href="assets/Particle Detector for CERN’s Experimental Areas.pdf" download = "Particle Detector for CERN’s Experimental Areas.pdf" class="button icon fa-download">Download Paper</a></li>
 			        </ul>
