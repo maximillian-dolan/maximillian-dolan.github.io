@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="image" >
-			<img src="{% link assets/images/mv_plot.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/MV_plot.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
