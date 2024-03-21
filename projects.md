@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
+<div id="projects_main">
 
 <!-- One -->
 <!-- <section id="one">
