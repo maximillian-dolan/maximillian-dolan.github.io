@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: My Resume
 description: 
 image: assets/images/Resume_pic.jpg
