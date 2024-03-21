@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="assets/Particle Detector for CERN’s Experimental Areas.pdf" download = "Particle Detector for CERN’s Experimental Areas.pdf" class="image">
-			<img src="{% link assets/images/pylj.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/cern logo.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>N-body orbital system</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A basic object-orientated N-body orbital system that simulates the movement of a system as objects interact with eachother, also calculating object features such as eccentricity and orbit using multiple methods.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/Intro_Intensive_Projects/tree/main/n_body_simulator" class="button">Learn more</a></li>
 				</ul>
@@ -94,7 +94,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Lebwohl-Lasher accelerated code</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A collection of scripts acclerating a script simulating the Lebwohl-Lasher liquid crystal model. Methods used include vectorization, cython, numba and parallelisation (mpi4py, openMP etc.).</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/LebwohlLasher_project" class="button">Learn more</a></li>
 				</ul>
