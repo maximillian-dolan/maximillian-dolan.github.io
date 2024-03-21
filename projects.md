@@ -2,7 +2,7 @@
 title: My projects
 layout: landing
 description: 'A collection of projects that I have undertaken, both software-based and other'
-image: assets/images/pic07.jpg
+image: assets/images/temp map.png
 nav-menu: true
 ---
 
