@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="image" >
-			<span class = "image fit"><img src="{% link assets/images/mv_plot.png %}" alt="" data-position="center center" /></span>
+			<img src="{% link assets/images/mv_plot.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -95,7 +95,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="resume.md" class="button next">Get Started</a></li>
+			<li><a href="my resume" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
