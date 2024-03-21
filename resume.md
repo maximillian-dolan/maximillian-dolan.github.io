@@ -54,8 +54,8 @@ nav-menu: true
  	<h2 id="Skills">Skills</h2>
 		<p><b>Languages: </b>Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), Bash, C++, LaTeX</p>
 		<p><b>Developer Tools: </b>Git, Docker, Google Cloud Platform, VS code, virtual machines</p>
-		<p><b>ML Techniques: </b>K‑Means/Gaussian Clustering, Decision Trees, Reinforcement Learning, Neural Networks</p>
-		<p><b>HPC and Cloud: </b>Parallelisation, Cython, Numba, Using Supercomputers</p>
+		<p><b>Machine Learning Techniques: </b>K‑Means/Gaussian Clustering, Decision Trees, Reinforcement Learning, Neural Networks</p>
+		<p><b>High Performance and Cloud Computing: </b>Parallelisation, Cython, Numba, Using Supercomputers</p>
 		<p><b>Soft Skills: </b>Peer Programming, Project Management, Data Wrangling/Communication, Mathematical Ability</p>
 	</div>
 </section>
