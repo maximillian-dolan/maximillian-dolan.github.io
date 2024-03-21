@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="projects_main">
+<div id="main">
 
 <!-- One -->
 <!-- <section id="one">
@@ -115,8 +115,6 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
-<!-- Four -->
 
 
 </div>
