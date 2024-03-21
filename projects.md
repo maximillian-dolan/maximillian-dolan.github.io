@@ -54,8 +54,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="https://github.com/maximillian-dolan/Intro_Intensive_Projects/tree/main/n_body_simulator" class="image">
+			<img src="{% link assets/images/orbits.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,13 +64,13 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/maximillian-dolan/Intro_Intensive_Projects/tree/main/n_body_simulator" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 		<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/maximillian-dolan/LebwohlLasher_project" class="image">
 			<img src="{% link assets/images/LL_figure.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/maximillian-dolan/LebwohlLasher_project" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
