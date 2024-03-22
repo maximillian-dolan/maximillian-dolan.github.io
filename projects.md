@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Forest fire dashboard</h3>
 				</header>
-				<p>An interactive dashboard tracking both wildfire instance, and contributory factors, for California. This data was then used to train a Machine Learning model that identifies at risk areas based on weather patterns.</p>
+				<p>An interactive dashboard tracking both wildfire instance, and contributory factors, for California. This data was then used to train a Machine Learning model that identifies at risk areas based on weather patterns</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Particle Detector for CERN’s Experimental Areas</h3>
 				</header>
-				<p>Creating new trigger mechanisms for CERN's north experimental beamlines. The final model maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitor capable of giving over 3 billion readings per second, detecting energies at a photonic level.</p>
+				<p>Creating new trigger mechanisms for CERN's north experimental beamlines. The final model maintained sufficient level of accuracy required for subatomic particle detection and produced an intensity monitor capable of giving over 3 billion readings per second, detecting energies at a photonic level</p>
 			        <ul class="actions">
 			                <li><a href="assets/Particle Detector for CERN’s Experimental Areas.pdf" download = "Particle Detector for CERN’s Experimental Areas.pdf" class="button icon fa-download">Download Paper</a></li>
 			        </ul>
@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>N-body orbital system</h3>
 				</header>
-				<p>A basic object-orientated N-body orbital system that simulates the movement of a system as objects interact with eachother, also calculating object features such as eccentricity and orbit using multiple methods.</p>
+				<p>A basic object-orientated N-body orbital system that simulates the movement of a system as objects interact with eachother, also calculating object features such as eccentricity and orbit using multiple methods</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/Intro_Intensive_Projects/tree/main/n_body_simulator" class="button">Learn more</a></li>
 				</ul>
@@ -94,7 +94,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Lebwohl-Lasher accelerated code</h3>
 				</header>
-				<p>A collection of scripts acclerating a script simulating the Lebwohl-Lasher liquid crystal model. Methods used include vectorization, cython, numba and parallelisation (mpi4py, openMP etc.).</p>
+				<p>A collection of scripts acclerating a script simulating the Lebwohl-Lasher liquid crystal model. Methods used include vectorization, cython, numba and parallelisation (mpi4py, openMP etc.)</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/LebwohlLasher_project" class="button">Learn more</a></li>
 				</ul>
