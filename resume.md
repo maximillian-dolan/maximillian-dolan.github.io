@@ -52,7 +52,7 @@ nav-menu: true
 <section id="skills">
 	<div class="inner">
  	<h2 id="Skills">Skills</h2>
-		<p><b>Languages: </b> <it>Advanced </it>- Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), Bash <it> novice</it> C++, LaTeX, SQL</p>
+		<p><b>Languages: </b> <i>Advanced </i>- Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), Bash <i> novice</i> C++, LaTeX, SQL</p>
 		<p><b>Developer Tools: </b>Git, Docker, VS code, virtual machines</p>
 		<p><b>Machine Learning Techniques: </b>K‑Means/Gaussian Clustering, Decision Trees, Reinforcement Learning, Neural Networks</p>
 		<p><b>High Performance and Cloud Computing: </b>Parallelisation, Cython, Numba, Using Supercomputers</p>
