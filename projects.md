@@ -34,6 +34,9 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/climate_change_dashboard" class="button">Learn more</a></li>
 				</ul>
+				<ul class="actions">
+					<li><a href="https://climatechangedashboard.streamlit.app" class="button">Check it out</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
