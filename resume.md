@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 		<div class="content">
 		        <ul class="actions">
-		                <li><a href="assets/Max_Dolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
+		                <li><a href="assets/MaxDolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
 		        </ul>
 		</div>
 	</div>
@@ -29,7 +29,7 @@ nav-menu: true
 <h2 id="Education">Education</h2>
 
 <h3 id = "uob">University of Bristol</h3>
-<h4 id = "masters">MSc Scientific Programming and Data Science</h4>
+<h4 id = "masters">MSc Scientific Computing with Data Science</h4>
 <i>Sep 2023 - Sep 2024</i>
 		<ul>
 			<li>Accepted onto the Google Developer Group mentor scheme</li>
