@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 		<div class="content">
 		        <ul class="actions">
-		                <li><a href="assets/MaxDolan_Resume.pdf" download = "Max_Dolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
+		                <li><a href="assets/MaxDolan_Resume.pdf" download = "MaxDolan_Resume.pdf" class="button icon fa-download">Download PDF</a></li>
 		        </ul>
 		</div>
 	</div>
