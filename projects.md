@@ -54,6 +54,22 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="https://github.com/maximillian-dolan/atlas_analysis" class="image">
+			<img src="{% link assets/images/AtlasEvent.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>ATLAS cloud analysis</h3>
+				</header>
+				<p>An exploration in creating a cloud-based application that can perform big-data analysis on the results from the ATLAS experiment at CERN</p>
+				<ul class="actions">
+					<li><a href="https://github.com/maximillian-dolan/atlas_analysis" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="assets/Particle Detector for CERN’s Experimental Areas.pdf" download = "Particle Detector for CERN’s Experimental Areas.pdf" class="image">
 			<img src="{% link assets/images/cern logo.png %}" alt="" data-position="top center" />
 		</a>
