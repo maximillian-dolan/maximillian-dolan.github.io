@@ -33,8 +33,9 @@ nav-menu: true
 <i>Sep 2023 - Sep 2024</i>
 		<ul>
 			<li>Accepted onto the Google Developer Group mentor scheme</li>
-			<li>Software Engineering and High Performance Computing for scientists – Gained an improved understanding of accelerated coding techniques, as well as the use of Cloud‑native technologies</li>
-			<li>Artificial Intelligence and Deep Learning – Foundation in Machine Learning techniques, and their practical implementation</li>
+			<li>Software Engineering and High Performance Computing for scientists – Gained an improved understanding of accelerated coding techniques, as well as the use of Cloud-native technologies</li>
+			<li>Artificial Intelligence and Deep Learning – Foundation in Machine Learning techniques, and their practical implementation, including decision trees, reinforcement learning, and neural networks</li>
+			<li>Quantum Information Theory - Built upon undergraduate quantum mechanics knowledge, combining with statistics to apply within computation</li>
 		</ul>  
   
 <h4 id = "undergrad">BSc Physics and Philosophy</h4>
@@ -52,7 +53,7 @@ nav-menu: true
 <section id="skills">
 	<div class="inner">
  	<h2 id="Skills">Skills</h2>
-		<p><b>Languages: </b> <i>Advanced </i>- Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), Bash <i> novice </i>- C++, LaTeX, SQL</p>
+		<p><b>Languages: </b> <i>Advanced </i>- Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.) <i> novice </i>- C++, LaTeX, SQL, Bash </p>
 		<p><b>Developer Tools: </b>Git, Docker, VS code, virtual machines</p>
 		<p><b>Machine Learning Techniques: </b>K‑Means/Gaussian Clustering, Decision Trees, Reinforcement Learning, Neural Networks</p>
 		<p><b>High Performance and Cloud Computing: </b>Parallelisation, Cython, Numba, Using Supercomputers</p>
@@ -74,7 +75,7 @@ nav-menu: true
 			<li>Researched the use of AI within their field of brand communications</li>
 			<li>Chaired a select committee of department heads to pitch ideas and gain feedback</li>
 			<li>Presented findings and recommendations to the entire business, leading to implementation of key changes</li>
-			<li><b>Skills: </b>Teamwork, Communication, Presentation Skills, Working with Clients, Research</li>
+			<li><b>Skills: </b>Teamwork, Communication, Presentation Skills, Stakeholder Management, Research</li>
 		</ul>
 
 <h3>University of Bristol</h3>
@@ -102,7 +103,7 @@ nav-menu: true
 <i>Jul 2023 - Sep 2023</i>
 		<ul>
 			<li>Have worked within catering, bars, kitchens and doing cleaning work</li>
-			<li>Had to be adaptive and flexible under pressure, collaborating with a wide range of people in unfamiliar environments/li>
+			<li>Had to be adaptive and flexible under pressure, collaborating with a wide range of people in unfamiliar environments</li>
 			<li>Acted proactively to independently organise and execute my duties every day</li>
 			<li><b>Skills: </b>Teamwork, Time Management, Fast‑Learning, Customer Interaction, Practical Initiative</li>
 		<!--</ul>
