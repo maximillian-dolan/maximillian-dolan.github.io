@@ -94,7 +94,7 @@ nav-menu: true
 				<header class="major">
 					<h3>N-body orbital system</h3>
 				</header>
-				<p>A basic object-orientated N-body orbital system that simulates the movement of a system as objects interact with eachother, also calculating object features such as eccentricity and orbit using multiple methods</p>
+				<p>A basic object-orientated N-body orbital system that simulates the movement of a system as objects interact with eachother, also calculating object features such as eccentricity and orbital period using multiple methods</p>
 				<ul class="actions">
 					<li><a href="https://github.com/maximillian-dolan/Intro_Intensive_Projects/tree/main/n_body_simulator" class="button">Learn more</a></li>
 				</ul>
